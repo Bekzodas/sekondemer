@@ -1,0 +1,13 @@
+.container {
+  text-align: center;
+}
+
+#timer {
+  font-size: 48px;
+  margin-bottom: 20px;
+}
+
+#startStopButton {
+  font-size: 24px;
+  padding: 10px 20px;
+}
